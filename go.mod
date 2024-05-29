@@ -4,10 +4,12 @@ go 1.22.2
 
 require (
 	github.com/0xsbeem/lipgloss v0.10.1-0.20240504015234-fccd97b35001
+	github.com/0xsbeem/stickers v1.3.1
 	github.com/charmbracelet/bubbles v0.18.0
 	github.com/charmbracelet/bubbletea v0.26.1
 	github.com/charmbracelet/lipgloss v0.10.0
 	github.com/lrstanley/bubblezone v0.0.0-20240125042004-b7bafc493195
+	golang.org/x/term v0.19.0
 )
 
 require (
@@ -26,6 +28,5 @@ require (
 	github.com/rivo/uniseg v0.4.7 // indirect
 	golang.org/x/sync v0.7.0 // indirect
 	golang.org/x/sys v0.19.0 // indirect
-	golang.org/x/term v0.19.0 // indirect
 	golang.org/x/text v0.4.0 // indirect
 )
